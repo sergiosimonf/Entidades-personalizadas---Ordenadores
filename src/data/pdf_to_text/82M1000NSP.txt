@@ -1,0 +1,102 @@
+ARTI SOFTWARE TEC. INF. S.L. 
+ANTONIO PEREZ 7 4º-4 
+28002 MADRID (28) 
+Tel: +34656359467 
+Fax:  
+e-mail: jaromero@artisoft.es
+82M1000NSP 
+Código: 82M1000NSP 608,21 €
+Lenovo 14e Chr 
+ 
+PERFORMANCE 
+Processor 
+AMD 3015Ce (2C / 4T, 1.2 / 2.3GHz, 1MB L2 / 4MB L3) 
+Graphics 
+Integrated AMD Radeon™ Graphics 
+Chipset 
+AMD SoC Platform 
+Memory 
+4GB Soldered DDR4-1600 
+Memory Slots 
+Memory soldered to systemboard, no slots 
+Max Memory 
+4GB soldered memory, not upgradable 
+Storage 
+32GB eMMC 5.1 
+Storage Support[1] 
+32GB eMMC 5.1 on systemboard 
+Storage Slot 
+eMMC on systemboard, no slots 
+Card Reader 
+MicroSD Card Reader 
+Optical 
+None 
+Audio Chip 
+High Definition (HD) Audio, Realtek® 5682I-CGT codec 
+Speakers 
+Stereo speakers, 2W x2 
+Camera 
+HD 720p with Privacy Shutter 
+Microphone 
+2x, Array 
+Battery 
+Integrated 57Wh 
+Power Adapter 
+65W USB-C® (3-pi 
+ 
+omebook Gen 2 
+ 
+Garantía :  
+12meses
+Lenovo 14e Chromebook Gen 2
+DISCO DURO
+Disco duro 32 GB Tipo Soporte 1 eMMC Interfaz Soporte 1 eMMC Número Soportes 1
+GRÁFICA
+Gráfica integrada No Fabricante de la 
+gráfica
+AMD Modelo gráfica AMD Radeon 
+Graphics
+Memoria de la gráfica 0 mb
+PROCESADORFamilia Procesador AMD 3000 Modelo de procesador 3015Ce Fabricante procesador AMD Frecuencia del 
+procesador
+2,3 GHz
+PANTALLA
+Tamaño pantalla 14 '' Pantalla táctil No Tipo de pantalla IPS Resolución (Estándar) 1920 x 1080
+Superficie de la 
+pantalla
+n/d  
+DIMENSIONES & PESO
+Peso sin embalaje 1,45 kg Altura 325 cm Ancho 223 cm Profundidad 17,7 cm
+GENERAL
+Color Gris Trusted Platform 
+Module (TPM)
+No  
+CONEXIONES
+Conexión a red móvil No Ethernet No presente Porte VGA No Bluetooth Si
+Puerto Thunderbolt No Puerto HDMI Si  
+RAM
+RAM Instalada 4 GB RAM Máxima 4 GB Bancos RAM Libres 0 Velocidad de la 
+memoria de reloj
+1.600 MHz
+Tecnología de la RAM DDR4  
+UNIDADES ÓPTICAS
+Tipología unidad 
+instalada
+N  
+AUDIO
+Micrófono Integrado Si  
+BATERÍA
+Número celdas 1  
+WEBCAM
+Webcam integrada Si  
+SOLUCIONES
+Escuela Digital Popular por 
+educación
+Pc Gaming Si  
+SISTEMA OPERATIVO & SOFTWARE
+Version S.O. ChromeOS  
+No se proporciona ninguna garantía ni declaración en cuanto a la exactitud de esta información y se declina cualquier responsabilidad por errores tipográficos u 
+otros errores u omisiones en el tipo de contenido. Al proporcionar esta información, además, no se concede ninguna licencia sobre ningún copyright, patente o 
+cualquier otro derecho de propiedad intelectual. No puede modificar de ninguna manera los materiales de esta web, ni reproducir o mostrar públicamente, ni 
+distribuir o utilizar de otro modo para fines públicos o comerciales. En caso de violación de estos Términos, la autorización de uso será necesaria, destruyendo con 
+efecto inmediato eventuales materiales descargados o impresos.

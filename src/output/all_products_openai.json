@@ -1,0 +1,182 @@
+[
+    {
+        "model": "Lenovo 14e Chromebook Gen 2",
+        "price": 608.21,
+        "processor": "AMD 3015Ce",
+        "ram_gb": 4,
+        "storage": 32,
+        "graphics": "Integrated AMD Radeon Graphics",
+        "inchs": 14
+    },
+    {
+        "model": "Dell Inspiron 15 1530",
+        "price": 554.33,
+        "processor": "Intel Core i5-1334U",
+        "ram_gb": 16,
+        "storage": 512,
+        "graphics": "Intel Iris Xe",
+        "inchs": 15
+    },
+    {
+        "model": "Dell Inspiron 15 3530",
+        "price": 674.33,
+        "processor": "AMD Ryzen 7 7730U",
+        "ram_gb": 16,
+        "storage": 512,
+        "graphics": "AMD Radeon Graphics",
+        "inchs": 15
+    },
+    {
+        "model": "Dell Inspiron 3030 Desktop",
+        "price": 674.33,
+        "processor": "Intel Core i5-12400",
+        "ram_gb": 8,
+        "storage": 512,
+        "graphics": "Intel UHD Graphics",
+        "inchs": null
+    },
+    {
+        "model": "Dell Latitude 9450 2-in-1",
+        "price": 2542.61,
+        "processor": "Intel Core Ultra 7 164U",
+        "ram_gb": 32,
+        "storage": 1024,
+        "graphics": "Intel UHD Graphics",
+        "inchs": 14
+    },
+    {
+        "model": "Dell XPS 13 9350",
+        "price": 2303.03,
+        "processor": "Intel Core Ultra 7 258V",
+        "ram_gb": 32,
+        "storage": 1024,
+        "graphics": "Intel Arc Graphics 140V",
+        "inchs": 13
+    },
+    {
+        "model": "Dell XPS 14 9440U7",
+        "price": 2628.52,
+        "processor": "Intel Core Ultra 7 155H",
+        "ram_gb": 32,
+        "storage": 1000,
+        "graphics": "NVIDIA GeForce RTX 4050",
+        "inchs": 14
+    },
+    {
+        "model": "Galaxy Book4 Ultra",
+        "price": 2425.46,
+        "processor": "Intel Core Ultra 7 155H",
+        "ram_gb": 16,
+        "storage": 1000,
+        "graphics": "NVIDIA GeForce RTX 4050",
+        "inchs": 16
+    },
+    {
+        "model": "HP 250 G10",
+        "price": 669.62,
+        "processor": "Intel Core i3 I3-1315U",
+        "ram_gb": 8,
+        "storage": 256,
+        "graphics": "Intel UHD Graphics",
+        "inchs": 15
+    },
+    {
+        "model": "HP Pro Torre 290 G9",
+        "price": 693.82,
+        "processor": "Intel Core i5-13500",
+        "ram_gb": 8,
+        "storage": 256,
+        "graphics": "Intel UHD Graphics 770",
+        "inchs": null
+    },
+    {
+        "model": "Lenovo IdeaPad 1 15ALC7",
+        "price": 604.33,
+        "processor": "AMD Ryzen 5 5625U",
+        "ram_gb": 16,
+        "storage": 512,
+        "graphics": "Integrated AMD Radeon Graphics",
+        "inchs": 15
+    },
+    {
+        "model": "Lenovo ThinkPad X1 2-in-1 Gen 9",
+        "price": 2546.24,
+        "processor": "Intel Core Ultra 7 155U",
+        "ram_gb": 32,
+        "storage": 1024,
+        "graphics": "Intel Graphics",
+        "inchs": 14
+    },
+    {
+        "model": "LG gram 16Z90R",
+        "price": 2130.0,
+        "processor": "Intel Core i7-1360P",
+        "ram_gb": 32,
+        "storage": 1000,
+        "graphics": "NVIDIA RTX 3050",
+        "inchs": 16
+    },
+    {
+        "model": "LG gram 17Z90R",
+        "price": 2205.78,
+        "processor": "Intel Core i7-1360P",
+        "ram_gb": 32,
+        "storage": 1000,
+        "graphics": "Intel Iris Xe",
+        "inchs": 17
+    },
+    {
+        "model": "Microsoft Surface Laptop 6",
+        "price": 2528.75,
+        "processor": "Intel Core Ultra 7 165H",
+        "ram_gb": 32,
+        "storage": 1000,
+        "graphics": "Intel Arc Graphics",
+        "inchs": 13
+    },
+    {
+        "model": "Microsoft Surface Laptop Studio 2",
+        "price": 3785.26,
+        "processor": "Intel Core i7-13800H",
+        "ram_gb": 32,
+        "storage": 1000,
+        "graphics": "NVIDIA RTX 4050/4060/2000",
+        "inchs": 14
+    },
+    {
+        "model": "Microsoft Surface Pro 10",
+        "price": 2311.45,
+        "processor": "Intel Core Ultra 7 i7-165U",
+        "ram_gb": 32,
+        "storage": 512,
+        "graphics": "Intel Graphics",
+        "inchs": 13
+    },
+    {
+        "model": "MacBook Pro 14",
+        "price": 3849.0,
+        "processor": "Apple M4 Max",
+        "ram_gb": 36,
+        "storage": 1064,
+        "graphics": "Apple integrated GPU",
+        "inchs": 14
+    },
+    {
+        "model": "ASUS PB63-B3011AH",
+        "price": 787.46,
+        "processor": "Intel Core i3 i3-13100",
+        "ram_gb": 8,
+        "storage": 256,
+        "graphics": "Intel UHD Graphics 730",
+        "inchs": null
+    },
+    {
+        "model": "TechMaster X1 Ultra",
+        "price": 1299.99,
+        "processor": "Intel Core i7-11800H",
+        "ram_gb": 16,
+        "storage": 512,
+        "graphics": "NVIDIA GeForce RTX 3060",
+        "inchs": 15
+    }
+]

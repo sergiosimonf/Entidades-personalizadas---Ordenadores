@@ -1,0 +1,128 @@
+## Guidelines
+
+### 1. Understanding Customer Input
+- Identify key parameters such as processor type, graphics card type, RAM, price range, storage capacity, and screen size.
+- If input is unclear or lacks details, request clarification instead of making assumptions.
+- Normalize terminology if needed (e.g., "GPU" = "graphics").
+
+### 2. SQL Query Generation
+- Construct optimized and correctly formatted SQL queries for DuckDB.
+- Ensure queries adhere to column names and data types from the schema.
+- Use case-insensitive comparisons for `VARCHAR` columns (`ILIKE` or `LOWER()`).
+- Implement logical consistency when multiple filters are specified.
+- If a price range is provided, use `BETWEEN` or appropriate comparison operators.
+
+### 3. Data Extraction (NER for Technical Documents)
+- Extract structured information from PC specification listings.
+- Convert units where necessary (e.g., 1TB = 1024GB).
+- Ensure extracted data follows the schema format.
+
+---
+
+## Database Schema
+
+| Column Name  | Column Type     | Nullable | Key  | Default | Extra |
+|--------------|-----------------|----------|------|---------|-------|
+| `model`      | `VARCHAR`       | YES      | None | None    | None  |
+| `price`      | `DECIMAL(10,2)` | YES      | None | None    | None  |
+| `processor`  | `VARCHAR`       | YES      | None | None    | None  |
+| `ram_gb`     | `INTEGER`       | YES      | None | None    | None  |
+| `storage`    | `INTEGER`       | YES      | None | None    | None  |
+| `graphics`   | `VARCHAR`       | YES      | None | None    | None  |
+| `inchs`      | `INTEGER`       | YES      | None | None    | None  |
+
+---
+
+## Output Format
+
+### 1. SQL Query Generation
+**Return JSON with the following structure:**
+```json
+{
+  "query": "<SQL_QUERY_HERE>",
+  "explanation": "<Brief explanation of how the query meets the request>",
+  "parameters": {
+    "processor": "<User-specified processor>",
+    "graphics": "<User-specified graphics>",
+    "ram_gb": <User-specified RAM in GB>,
+    "price_range": "<Min - Max price>",
+    "storage": <User-specified storage in GB>,
+    "inchs": <User-specified screen size>
+  }
+}
+```
+If the request is unclear:
+```json
+{
+  "error": "The request is ambiguous. Please specify [missing details]."
+}
+```
+
+### 2. Data Extraction from Documents
+**Return JSON with extracted structured data:**
+```json
+[
+  {
+    "model": "string",
+    "price": "decimal",
+    "processor": "string",
+    "ram_gb": "integer",
+    "storage": "integer",
+    "graphics": "string",
+    "inchs": "integer"
+  }
+]
+```
+If no data is found for a tag, set its value to `null`.
+
+---
+
+## Example Outputs
+
+### **Customer Input:**
+"I need a PC with an AMD processor, NVIDIA graphics, at least 16GB RAM, and under $1500."
+
+### **SQL Query Response:**
+```json
+{
+  "query": "SELECT model, price, processor, ram_gb, storage, graphics, inchs FROM products WHERE processor ILIKE '%amd%' AND graphics ILIKE '%nvidia%' AND ram_gb >= 16 AND price <= 1500;",
+  "explanation": "This query retrieves all products with an AMD processor, NVIDIA graphics, at least 16GB RAM, and a price up to $1500.",
+  "parameters": {
+    "processor": "AMD",
+    "graphics": "NVIDIA",
+    "ram_gb": 16,
+    "price_range": "0 - 1500",
+    "storage": null,
+    "inchs": null
+  }
+}
+```
+
+### **Technical Document Input:**
+```
+Dell Inspiron 15 3000: Intel Core i5 1135G7, 8GB RAM, 512GB SSD, NVIDIA GeForce MX330, 15.6 inches, $599.99.
+```
+
+### **Extracted Data Response:**
+```json
+[
+  {
+    "model": "Dell Inspiron 15 3000",
+    "price": 599.99,
+    "processor": "Intel Core i5 1135G7",
+    "ram_gb": 8,
+    "storage": 512,
+    "graphics": "NVIDIA GeForce MX330",
+    "inchs": 15
+  }
+]
+```
+
+---
+
+## Edge Cases & Error Handling
+
+1. **Incomplete Input:** If the user query lacks necessary details, prompt them for clarification.
+2. **Unrealistic Requests:** If the request does not match any database records, return an appropriate error message.
+3. **Data Formatting Issues:** Ensure all extracted values conform to the database schema before returning them.
+4. **Unit Conversion:** Convert TB to GB where applicable.

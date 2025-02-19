@@ -1,0 +1,149 @@
+ARTI SOFTWARE TEC. INF. S.L. 
+ANTONIO PEREZ 7 4º-4 
+28002 MADRID (28) 
+Tel: +34656359467 
+Fax:  
+e-mail: jaromero@artisoft.es
+Dell Inspiron 3030 Desktop 300W TPM i5-12400 8/512GB SSD 
+Intel UHD WLAN Kb Mouse W11 P 
+Código: 1D23K
+674,33 €
+Grandes posibilidades. Tamaño reducido. 
+Lo más grande no siempre es lo mejor. El pequeño sobremesa Inspiron incorpora los últimos procesadores 
+Intel® Core™ y una memoria DDR5 de hasta 16 GB, todo ello en un diseño compacto que ahorra espacio. 
+Diseñado para adaptarse a tu estilo de vida 
+El sobremesa pequeño Inspiron incorpora funciones y capacidades de alto rendimiento en un chasis compacto 
+diseñado para caber a la perfección en cualquier sitio. 
+Preparado para el rendimiento 
+Aborda sin esfuerzo cualquier tarea gracias a la potencia de los procesadores Intel® Core™ más recientes. No 
+solo eso, sino que el sobremesa pequeño Inspiron puede admitir una memoria DDR5 de hasta 16 GB, lo cual te 
+ofrece la capacidad de ampliación suficiente para añadir más memoria y satisfacer así futuras necesidades de 
+computación. El sobremesa pequeño Inspiron cuenta con una opción de actualización de la SSD de hasta 1 TB 
+para que almacenes todos tus archivos, fotografías y vídeos y accedas a ellos con facilidad. 
+Diseñado para aumentar la productividad 
+Ahora, el sobremesa pequeño Inspiron está listo para las tareas empresariales, gracias a incorporar una 
+instancia de Trusted Platform Module integrada y fácil de usar para proteger tus datos. Además, cuenta con una 
+amplia variedad de puertos y ranuras para conectar todos sus dispositivos personales y de empresa. 
+ 
+*Algunos datos de esta descripción pueden ser opcionales y no estar presentes en este código de producto 
+específico (por ejemplo, presencia de LTE o tipo de tarjeta gráfica, etc.). Consulte la ficha técnica. 
+ 
+ 
+ 
+ 
+Garantía :  
+12meses
+ALMACENAMIENTO
+Tamaño de los discos 512 GB Tipo Soporte 1 SSD Interfaz Soporte 1 M.2 PCIe 
+NVMe
+Dimensión Soporte 1 512 GB
+Número Soportes 1 Tipología Controlador M.2  
+PROCESADOR
+Familia del 
+Procesador
+Intel Core i5 Modelo del 
+procesador
+i5-12400 Velocidad de clock 2,5 GHz Fabricante Procesador Intel
+Caché de tamaño 
+total
+18 MB  
+GRAFICA
+Modelo gráfica UHD Graphics Memoria Dedicada 0 MB Integrada Si Fabricante Intel
+Resolución Máxima 
+(Ancho)
+4.096 Px Resolución Máxima 
+(Altura)
+2.160 Px  
+CONECTIVIDAD/PUERTOS
+N° total de conectores 10 N° total de puertos 
+USB
+8 N° puertos USB 
+posteriores
+4 N° puertos USB 
+frontales
+4
+Puertos USB 2.0 High 
+Speed Type-A
+4 Puertos USB 3.2 Gen 1 
+SuperSpeed (5 Gbps) 
+Type-A
+3 Puertos USB 3.2 Gen 2 
+SuperSpeed+ (10 
+Gbps) Type-A
+0 PCI 0
+PCI-Express 1x 0 PCI-Express 16x 0 Puertos Serie 0 Audio - frontales 1
+Audio - posteriores 1 Ps/2 0 N° puertos HDMI 1 N° puertos Mini HDMI 0
+N° puertos VGA 0 N° puertos Display 
+Port
+1 N° puertos DVI-I 0 N° puertos DVI-D 0
+N° puertos Socket M.2 (para SSD Socket M.2 (para 0 SATA 3.0 2 0 0Thunderbolt SATA/NVMe) tarjeta WiFi/BT)
+Otros 
+Conectores/Puertos Puertos
+Parte frontal:
+ 
+2 puertos USB 2.0
+ 
+1 puerto USB 3.2 de 1.ª gen.
+ 
+1 puerto USB 3.2 tipo C de 1.ª generación
+ 
+1 conector universal para auriculares
+ 
+ 
+ 
+Parte trasera:
+ 
+2 puertos USB 2.0 con funciones de encendido y 
+reactivación
+ 
+2 puertos USB 3.2 de 1.ª generación
+ 
+1 puerto de salida de línea de audio
+ 
+1 puerto DisplayPort 1.4
+ 
+1 puerto Ethernet RJ-45
+ 
+1 puerto HDMI 1.4b
+ 
+Nota: La resolución máxima admitida en el puerto HDMI 
+1.4b es de 1920 × 1200.
+ 
+GENERAL
+Factor de forma Tower Wireless Wi-Fi 5 
+(802.11ac)
+Bluetooth Si Color Primario Azul
+Ratón Optico USB Refrigeración líquida No Teclado Standard Usb Altavoces No
+Order code* Sin unidad óptica  
+UNIDAD OPTICA
+Tipología unidad 
+instalada
+Windows 11 
+Pro
+ 
+SISTEMA OPERATIVO & SOFTWARE
+Sistema operativo Windows 11 Versión sistema 
+operativo
+Professional Imagen Precargada de 
+Office (atcivabile con 
+PKC)
+trial Duracion antivirus 
+incluido
+12 months
+RAM
+RAM Instalada 8 GB Tecnología DDR5 RAM Máxima 64 GB Bancos RAM Libres 1
+Frecuencia 4.800 MHz Bancos RAM Totales 2 Tipología DIMM Dual Channel No
+DIMENSIONES Y PESO
+Altura Pc 324,3 mm Ancho Pc 154 mm Peso sin embalaje 7,05 Kg Profundidad Pc 292,8 mm
+CONTROLADORA
+Raid No LAN 10/100/1000  
+LECTOR DE TARJETAS
+Lector de tarjetas No se admite  
+ALIMENTADOR
+Potencia 300 W  ESCUELA DIGITAL
+PC Gaming No Escuela Digital no Device Chrome No  
+No se proporciona ninguna garantía ni declaración en cuanto a la exactitud de esta información y se declina cualquier responsabilidad por errores tipográficos u 
+otros errores u omisiones en el tipo de contenido. Al proporcionar esta información, además, no se concede ninguna licencia sobre ningún copyright, patente o 
+cualquier otro derecho de propiedad intelectual. No puede modificar de ninguna manera los materiales de esta web, ni reproducir o mostrar públicamente, ni 
+distribuir o utilizar de otro modo para fines públicos o comerciales. En caso de violación de estos Términos, la autorización de uso será necesaria, destruyendo con 
+efecto inmediato eventuales materiales descargados o impresos.

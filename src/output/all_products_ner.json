@@ -1,0 +1,128 @@
+{
+    "82M1000NSP.txt": {
+        "precio": "608,21 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica AMD Radeon",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Dell Inspiron 15 3530R5-7530U16GB512GB SSD15.6_ FHD.txt": {
+        "precio": "554,33 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica AMD Radeon",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Dell Inspiron 3030 Desktop 300W TPM i5-12400 8.txt": {
+        "precio": "674,33 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica UHD Graphics",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Dell Latitude 9450 2-in-1 U7 165U 32GB.txt": {
+        "precio": "2.542,61 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica UHD Graphics",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Dell XPS 13 9350U7 258VEvo32GB1TB SSD13.4_ OLED Touch.txt": {
+        "precio": "2.303,03 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica Intel Arc \nGraphics",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Dell XPS 14 9440U7 155H32GB1TB SSD14.5_ OLED Touch.txt": {
+        "precio": "2.628,52 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica GeForce RTX \n4050",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "GALAXY BOOK4 ULTRA 16_, CORE ULTRA 7 155H 16GB 1TB.txt": {
+        "precio": "2.425,46 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica GeForce RTX \n4050",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "HP 250 G10 de 15,6 pulgadas.txt": {
+        "precio": "669,62 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica UHD Graphics",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "HP Pro Torre 290 G9.txt": {
+        "precio": "693,82 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica UHD Graphics \n770",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Lenovo IdeaPad 1 15ALC7.txt": {
+        "precio": "604,33 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica AMD Radeon \nGraphics",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Lenovo ThinkPad X1 2-in-1 Gen 9.txt": {
+        "precio": "2.546,24 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica Intel Graphics",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "LG gram 16Z90R.txt": {
+        "precio": "2.130,00 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica Iris Xe",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "LG gram 17Z90R 17_ Windows 11 Home i7 32GB 1TB SSD.txt": {
+        "precio": "2.205,78 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica RTX™ 3050 Ti",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Microsoft Surface Laptop 6 13.5 i7.txt": {
+        "precio": "2.528,75 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica Intel Arc",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Microsoft Surface Laptop Studio 2 i7.txt": {
+        "precio": "3.785,26 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica GeForce RTX \n2050",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "Microsoft Surface Pro 10 i7.txt": {
+        "precio": "2.311,45 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica Intel Graphics",
+        "ram": null,
+        "ram_maxima": null
+    },
+    "MX2G3Y.txt": {
+        "precio": "3.849,00 €",
+        "procesador": null,
+        "grafica": null,
+        "ram": null,
+        "ram_maxima": null
+    },
+    "PB63-B3011AH.txt": {
+        "precio": "787,46 €",
+        "procesador": null,
+        "grafica": "Modelo gráfica Gráficos Intel \nUHD 730",
+        "ram": null,
+        "ram_maxima": null
+    }
+}

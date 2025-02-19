@@ -1,0 +1,115 @@
+ARTI SOFTWARE TEC. INF. S.L. 
+ANTONIO PEREZ 7 4º-4 
+28002 MADRID (28) 
+Tel: +34656359467 
+Fax:  
+e-mail: jaromero@artisoft.es
+HP Pro Torre 290 G9 
+Código: 623N5ET 693,82 €
+La torre HP Pro 290 te ayuda a optimizar recursos de empresa. Al integrar un potente procesador Intel®, 
+herramientas esenciales y funciones de seguridad profesionales, este ordenador de precio asequible y fácil de 
+configurar te ofrece un diseño funcional y escalable para crecer al ritmo de tu negocio.
+Procesamiento potente 
+ 
+Gestiona fácilmente el día a día de tu negocio con un procesador Intel®, potente memoria, almacenamiento y 
+gráficos. 
+ 
+Posibilidad de ampliación para el futuro 
+ 
+Tres bahías y tres ranuras de altura completa proporcionan capacidad de ampliación de cara al futuro. 
+ 
+Ayuda a preservar la seguridad de los datos 
+ 
+Ayuda a proteger tu inversión y tus datos con firmware TPM, HP Drive Lock y la seguridad física que proporciona 
+una ranura de bloqueo. 
+ 
+Protege nuestro futuro compartido 
+ 
+La caja exterior de la torre HP Pro 290 G9 es reciclable y de origen sostenible en un 92 %. 
+ 
+Garantía :  
+12meses
+Gráficos Intel® UHD 770
+ALMACENAMIENTO
+Tamaño de los discos 256 GB Tipo Soporte 1 SSD Interfaz Soporte 1 SSD M.2 NVMe 
+PCIe
+Dimensión Soporte 1 256 GB
+Número Soportes 2  
+PROCESADOR
+Familia del 
+Procesador
+Intel Core i5 Modelo del 
+procesador
+i5-13500 Velocidad de clock 2,5 GHz Fabricante Procesador Intel
+GRAFICA
+Modelo gráfica UHD Graphics 
+770
+Memoria Dedicada 0 MB Integrada Si Fabricante Intel
+Resolución Máxima 
+(Ancho)
+0 Px Resolución Máxima 
+(Altura)
+0 Px  
+CONECTIVIDAD/PUERTOS
+N° puertos USB 
+posteriores
+0 N° puertos USB 
+frontales
+0 Puertos USB 3.2 Gen 2 
+SuperSpeed+ (10 
+Gbps) Type-A
+0 PCI 0
+PCI-Express 1x 0 PCI-Express 16x 0 Puertos Serie 0 Audio - frontales 0
+Ranuras de expansión: 2 M.2; 1 PCIe 3 x1; 1 PCIe 4 x16 (1 
+ranura M.2 para WLAN y 1 ranura M.2 2242/2280 para 
+almacenamiento.)
+ 
+Puertos y conectores
+Audio - posteriores 0 Ps/2 0 Otros 
+Conectores/Puertos 
+Parte delantera: 4 USB Type-A con una velocidad de 
+transmisión de datos de 5 Gbps; 1 combo de 
+auriculares/micrófono. 
+Parte trasera: 4 USB 2.0 Type-A; 1 HDMI; 1 RJ-45; 1 VGA; 
+1 conector de alimentación; 1 entrada de línea; 1 salida 
+de línea; 1 puerto de serie (opcional). 
+Puertos opcionales: 1 puerto serie 4x; 1 paralelo 
+ 
+ 
+ 
+GENERAL
+Factor de forma Tower Wireless No presente Bluetooth No Color Primario Negro
+Ratón Optico USB Refrigeración líquida No Teclado Standard Usb Altavoces No
+UNIDAD OPTICA
+Tipología unidad 
+instalada
+Ninguna 
+Unidad Optica
+ 
+SISTEMA OPERATIVO & SOFTWARE
+Sistema operativo Windows 11 Versión sistema 
+operativo
+Professional Imagen Precargada de 
+Office (atcivabile con 
+PKC)
+Ninguna Duracion antivirus 
+incluido
+0 months
+RAM
+RAM Instalada 8 GB Tecnología DDR4 RAM Máxima 64 GB Bancos RAM Libres 1
+Frecuencia 3.200 MHz Bancos RAM Totales 2 Tipología DIMM  
+DIMENSIONES Y PESO
+Altura Pc 33,7 mm Ancho Pc 15,5 mm Peso sin embalaje 4,7 Kg Profundidad Pc 30,3 mm
+CONTROLADORA
+Raid No LAN 10/100/1000  
+LECTOR DE TARJETAS
+Lector de tarjetas No presente  
+ALIMENTADOR
+Potencia 180 W  
+ESCUELA DIGITAL
+PC Gaming No Escuela Digital Genérico  
+No se proporciona ninguna garantía ni declaración en cuanto a la exactitud de esta información y se declina cualquier responsabilidad por errores tipográficos u 
+otros errores u omisiones en el tipo de contenido. Al proporcionar esta información, además, no se concede ninguna licencia sobre ningún copyright, patente o 
+cualquier otro derecho de propiedad intelectual. No puede modificar de ninguna manera los materiales de esta web, ni reproducir o mostrar públicamente, ni 
+distribuir o utilizar de otro modo para fines públicos o comerciales. En caso de violación de estos Términos, la autorización de uso será necesaria, destruyendo con 
+efecto inmediato eventuales materiales descargados o impresos.
